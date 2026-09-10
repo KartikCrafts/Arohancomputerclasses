@@ -1,0 +1,6 @@
+{
+  "name": "Aarohan IT Academy",
+  "description": "ISO 9001:2015 certified IT & Computer Education Academy website with 12 diploma programs, AI course advisor, fee EMI calculator, certificate verification, and placement cell.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
